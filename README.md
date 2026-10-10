@@ -16,6 +16,13 @@ Now / Next / Later / Horizon — where the studio stands and where it is going.
 
 ![Master Roadmap](landscape/02-master-roadmap.png)
 
+## Infrastructure board — GhostDeploy D2 shadow
+
+GhostDeploy D1 + agent units are built, and the six-product fleet has been
+stood up in shadow (localhost only — no live service was touched).
+
+![Infrastructure Board](landscape/08-infrastructure-board.png)
+
 ## The stack
 
 Every computing era needs the same primitives. Ghost has built each one, in the
